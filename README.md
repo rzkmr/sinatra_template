@@ -1,2 +1,4 @@
-# sinatra_template
+# Sinatra template
 Sinatra boilerplate
+
+Trying to write Sinatra boilerplate
